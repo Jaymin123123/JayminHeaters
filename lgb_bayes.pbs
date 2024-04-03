@@ -1,0 +1,10 @@
+#PBS -l walltime=04:00:00
+#PBS -l select=3:ncpus=12:mem=4gb
+#PBS -J 2-3
+
+module load anaconda3/personal
+source activate heaters
+
+cd $PBS_O_WORKDIR
+
+python train_lightgbm.py -d 900 -t bayes --split profiles -w

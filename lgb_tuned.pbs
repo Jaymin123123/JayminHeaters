@@ -1,0 +1,10 @@
+#PBS -l walltime=00:30:00
+#PBS -l select=3:ncpus=9:mem=2gb
+#PBS -J 1-3
+
+module load anaconda3/personal
+source activate heaters
+
+cd $PBS_O_WORKDIR
+
+python train_lightgbm.py -d 900 -t tuned --split profiles -w 

@@ -1,0 +1,17 @@
+/.ipynb_checkpoints
+/Figures/*
+!Figures/README.txt
+/HK data/*
+!/HK data/**.ipynb
+/Models/*
+!/Models/README.txt
+/Profiles/Input/*
+!/Profiles/Input/README.txt
+/Profiles/Output/*
+!/Profiles/Output/README.txt
+/__pycache__
+/**.1
+/**.2
+/**.3
+/**.pbs.**
+settings.py

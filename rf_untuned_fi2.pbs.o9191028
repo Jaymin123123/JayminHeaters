@@ -1,0 +1,145 @@
+/rds/general/user/js6523/home/Heaters
+Training with these settings:
+Namespace(inst='OBS', period=-1, duration=900, tune='untuned', split='profiles', cv=False, weights=False, val='latest', rfe=True, coord='rtn')
+Fitting estimator with 80 features.
+Fitting estimator with 79 features.
+Fitting estimator with 78 features.
+Fitting estimator with 77 features.
+Fitting estimator with 76 features.
+Fitting estimator with 75 features.
+Fitting estimator with 74 features.
+Fitting estimator with 73 features.
+Fitting estimator with 72 features.
+Fitting estimator with 71 features.
+Fitting estimator with 70 features.
+Fitting estimator with 69 features.
+Fitting estimator with 68 features.
+Fitting estimator with 67 features.
+Fitting estimator with 66 features.
+Fitting estimator with 65 features.
+Fitting estimator with 64 features.
+Fitting estimator with 63 features.
+Fitting estimator with 62 features.
+Fitting estimator with 61 features.
+Fitting estimator with 60 features.
+Fitting estimator with 59 features.
+Fitting estimator with 58 features.
+Fitting estimator with 57 features.
+Fitting estimator with 56 features.
+Fitting estimator with 55 features.
+Fitting estimator with 54 features.
+Fitting estimator with 53 features.
+Fitting estimator with 52 features.
+Fitting estimator with 51 features.
+Fitting estimator with 50 features.
+Fitting estimator with 49 features.
+Fitting estimator with 48 features.
+Fitting estimator with 47 features.
+Fitting estimator with 46 features.
+Fitting estimator with 45 features.
+Fitting estimator with 44 features.
+Fitting estimator with 43 features.
+Fitting estimator with 42 features.
+Fitting estimator with 41 features.
+Fitting estimator with 40 features.
+Fitting estimator with 39 features.
+Fitting estimator with 38 features.
+Fitting estimator with 37 features.
+Fitting estimator with 36 features.
+Fitting estimator with 35 features.
+Fitting estimator with 34 features.
+Fitting estimator with 33 features.
+Fitting estimator with 32 features.
+Fitting estimator with 31 features.
+Fitting estimator with 30 features.
+Fitting estimator with 29 features.
+Fitting estimator with 28 features.
+Fitting estimator with 27 features.
+Fitting estimator with 26 features.
+Fitting estimator with 25 features.
+Fitting estimator with 24 features.
+Fitting estimator with 23 features.
+Fitting estimator with 22 features.
+Fitting estimator with 21 features.
+Column: Time, Selected True, Rank: 1.000
+Column: Radius, Selected True, Rank: 1.000
+Column: DistanceToEarth, Selected True, Rank: 1.000
+Column: DistanceToVenus, Selected True, Rank: 1.000
+Column: time_since_T_high, Selected True, Rank: 1.000
+Column: time_it_was_high, Selected True, Rank: 1.000
+Column: cumulative, Selected False, Rank: 2.000
+Column: OBS T, Selected False, Rank: 11.000
+Column: IBS T, Selected False, Rank: 26.000
+Column: OBS minus IBS T, Selected True, Rank: 1.000
+Column: dutycycle, Selected True, Rank: 1.000
+Column: SCM T, Selected True, Rank: 1.000
+Column: SCM T grad, Selected False, Rank: 27.000
+Column: SA MY, Selected False, Rank: 23.000
+Column: SA change, Selected False, Rank: 37.000
+Column: SoloHI-BDpl, Selected False, Rank: 44.000
+Column: SoloHI-BDpl grad, Selected False, Rank: 25.000
+Column: SUN_X, Selected False, Rank: 49.000
+Column: SUN_Y, Selected False, Rank: 57.000
+Column: SUN_Z, Selected False, Rank: 51.000
+Column: time_since_T_high -1, Selected True, Rank: 1.000
+Column: time_since_T_high -2, Selected True, Rank: 1.000
+Column: time_since_T_high -3, Selected True, Rank: 1.000
+Column: time_since_T_high 1, Selected True, Rank: 1.000
+Column: cumulative -1, Selected False, Rank: 5.000
+Column: cumulative -2, Selected True, Rank: 1.000
+Column: cumulative -3, Selected True, Rank: 1.000
+Column: cumulative 1, Selected True, Rank: 1.000
+Column: OBS T -1, Selected False, Rank: 19.000
+Column: OBS T -2, Selected False, Rank: 43.000
+Column: OBS T -3, Selected False, Rank: 45.000
+Column: OBS T 1, Selected False, Rank: 33.000
+Column: IBS T -1, Selected True, Rank: 1.000
+Column: IBS T -2, Selected False, Rank: 35.000
+Column: IBS T -3, Selected False, Rank: 34.000
+Column: IBS T 1, Selected False, Rank: 24.000
+Column: OBS minus IBS T -1, Selected False, Rank: 8.000
+Column: OBS minus IBS T -2, Selected False, Rank: 29.000
+Column: OBS minus IBS T -3, Selected False, Rank: 9.000
+Column: OBS minus IBS T 1, Selected False, Rank: 12.000
+Column: dutycycle -1, Selected False, Rank: 3.000
+Column: dutycycle -2, Selected False, Rank: 18.000
+Column: dutycycle -3, Selected False, Rank: 10.000
+Column: dutycycle 1, Selected False, Rank: 6.000
+Column: SCM T -1, Selected True, Rank: 1.000
+Column: SCM T -2, Selected False, Rank: 7.000
+Column: SCM T -3, Selected False, Rank: 13.000
+Column: SCM T 1, Selected True, Rank: 1.000
+Column: SCM T grad -1, Selected False, Rank: 16.000
+Column: SCM T grad -2, Selected False, Rank: 20.000
+Column: SCM T grad -3, Selected False, Rank: 17.000
+Column: SCM T grad 1, Selected False, Rank: 14.000
+Column: SUN_X -1, Selected False, Rank: 47.000
+Column: SUN_X -2, Selected False, Rank: 56.000
+Column: SUN_X -3, Selected False, Rank: 58.000
+Column: SUN_X 1, Selected False, Rank: 48.000
+Column: SUN_Y -1, Selected False, Rank: 54.000
+Column: SUN_Y -2, Selected False, Rank: 60.000
+Column: SUN_Y -3, Selected False, Rank: 61.000
+Column: SUN_Y 1, Selected False, Rank: 59.000
+Column: SUN_Z -1, Selected False, Rank: 50.000
+Column: SUN_Z -2, Selected False, Rank: 52.000
+Column: SUN_Z -3, Selected False, Rank: 55.000
+Column: SUN_Z 1, Selected False, Rank: 53.000
+Column: SA MY -1, Selected False, Rank: 21.000
+Column: SA MY -2, Selected False, Rank: 4.000
+Column: SA MY -3, Selected True, Rank: 1.000
+Column: SA MY 1, Selected False, Rank: 15.000
+Column: SA change -1, Selected False, Rank: 38.000
+Column: SA change -2, Selected False, Rank: 42.000
+Column: SA change -3, Selected False, Rank: 41.000
+Column: SA change 1, Selected False, Rank: 22.000
+Column: SoloHI-BDpl -1, Selected False, Rank: 39.000
+Column: SoloHI-BDpl -2, Selected False, Rank: 40.000
+Column: SoloHI-BDpl -3, Selected False, Rank: 46.000
+Column: SoloHI-BDpl 1, Selected False, Rank: 36.000
+Column: SoloHI-BDpl grad -1, Selected False, Rank: 31.000
+Column: SoloHI-BDpl grad -2, Selected False, Rank: 28.000
+Column: SoloHI-BDpl grad -3, Selected False, Rank: 30.000
+Column: SoloHI-BDpl grad 1, Selected False, Rank: 32.000
+Test Score:  0.9872256890443601
+Val Score:  0.78654821347998
